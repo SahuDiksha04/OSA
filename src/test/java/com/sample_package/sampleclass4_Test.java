@@ -5,4 +5,7 @@ public class sampleclass4_Test {
 		System.out.println("sss");
 	}
 
+public static void vvv(String[] args) {
+	System.err.println();
+}
 }

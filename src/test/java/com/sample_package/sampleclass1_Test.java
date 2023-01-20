@@ -14,7 +14,7 @@ public class sampleclass1_Test {
 	@Test
 	public void editTest()
 	{
-		System.out.println("edited");
+		System.out.println("edited          ");
 	}
 
 }

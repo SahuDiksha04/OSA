@@ -14,6 +14,7 @@ public class sampleclass2_Test {
 	public void subcategoryTest()
 	{
 		System.out.println("sub category created");
+		System.out.println("pp");
 	}
 
 }
